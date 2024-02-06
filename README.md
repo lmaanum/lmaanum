@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LeAnn!
-- 👀 I’m interested in transitioning to a Data Analyst career from a broad health/life science background.
+- 👀 I’m interested in transitioning to a Data Analyst career from a broad healthcare/life science background.
 - 🌱 I’m currently learning SQL, Python, and Tableau.
 - 📫 How to reach me: leann.maanum@gmail.com
 - 😄 Pronouns: she/her
